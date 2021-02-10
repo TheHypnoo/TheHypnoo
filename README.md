@@ -21,9 +21,9 @@ In 2018 I began to study a degree in Cross-Platform Application Development wher
 And more...
 
 ## Find me at:
-[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/sergigonzalez29)
-[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/sergigonzalez29)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergi-gonzalez-lloria-5b7553185/)
+[![Twitter](https://img.shields.io/badge/Twitter-@TheHypnoo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/sergigonzalez29)
+[![Instagram](https://img.shields.io/badge/Instagram-@TheHypnoo-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/sergigonzalez29)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-TheHypnoo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergi-gonzalez-lloria-5b7553185/)
 
 ## Contact me:
 [![Email](https://img.shields.io/badge/braismoure@mouredev.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:sergi.gonzalez.lloria@gmail.com)
