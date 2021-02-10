@@ -25,4 +25,4 @@ And more...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TheHypnoo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergi-gonzalez-lloria-5b7553185/)
 
 ## Contact me:
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:sergi.gonzalez.lloria@gmail.com)
+[![Email](https://img.shields.io/badge/sergi.gonzalez.lloria@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:sergi.gonzalez.lloria@gmail.com)
