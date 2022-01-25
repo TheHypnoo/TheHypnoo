@@ -1,5 +1,5 @@
 # Hello, my name is Sergi Gonzalez !
-### I am a Spanish developer 👨🏻‍💻 who is studying Cross-Platform Application Development (DAM).
+### I am a Spanish developer 👨🏻‍💻 who is studying Computer Engineering.
 &nbsp;
 ## ABOUT ME: 
 #### · I love playing videogames 🎮, tecnology and science 🖥️🤖
@@ -19,12 +19,9 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)]()
 &nbsp;
 And more...
-&nbsp;
-## FUTURE LEARNING PLANS: 
-#### · Currently, I am learning how to use Kotlin in Android.  
-#### · And I would also like to learn, in the future, how to use Flutter. 
 &nbsp;
 ### If you want to contact me find me at:
 [![Twitter](https://img.shields.io/badge/Twitter-@TheHypnoo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/sergigonzalez29)
